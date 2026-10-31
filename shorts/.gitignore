@@ -1,0 +1,4 @@
+# generated media artifacts - keep scripts and captions, not binaries
+*.wav
+*.mp3
+*.mp4
